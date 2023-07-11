@@ -3,6 +3,7 @@
 #### Version TBD
 * Fixed issues related to high RAM usage
   * The resumable downloads now reserve drive space to write to in advance instead of being managed in system RAM
+  * Fixed readme opening twice when pressing install on a modlist from the modlist gallery view
 
 #### Version - 3.1.0.0 - 5/7/2023
 * Fixed Readme opening twice
